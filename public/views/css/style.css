@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+}
+
+.container {
+    max-width: 1140px;
+    width: 80%;
+    margin: auto;
+
+}
+
+.header-area {
+    background-color: royalblue;
+    padding: 15px 0;
+    color: #ffffff;
+    overflow: hidden;
+}
+
+.header-area .logo-area {
+    overflow: hidden;
+    float: left;
+    width: 65%
+}
+
+
+.header-area .add-area {
+    overflow: hidden;
+    float: right;
+    width: 35%
+}
+
+.add-area a {
+    color: white;
+    float: right;
+}
+
+.wrapper{
+    width: 500px;
+    margin: 0 auto;
+}
+
+
+.gender {
+        margin: 10px 0;
+
+}
+
+.btn input{
+    padding: 5px 15px;
+}
